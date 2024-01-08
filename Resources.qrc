@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>UI/Play Button.png</file>
+        <file>UI/Right Side Bar.png</file>
+        <file>UI/StartScreenBackground.png</file>
+        <file>UI/popupModal.png</file>
+        <file>UI/Level Popup.png</file>
+        <file>UI/Game Screen-LEVEL2.png</file>
+        <file>UI/Game Screen-LEVEL3.png</file>
+        <file>UI/Game Screen-LEVEL4.png</file>
+        <file>UI/Beaker.png</file>
+        <file>UI/david.png</file>
+        <file>UI/hydrogen.png</file>
+        <file>UI/oxygen.png</file>
+        <file>UI/aluminum.png</file>
+        <file>UI/calcium.png</file>
+        <file>UI/carbon.png</file>
+        <file>UI/copper.png</file>
+        <file>UI/helium.png</file>
+        <file>UI/iron.png</file>
+        <file>UI/nickel.png</file>
+        <file>UI/nitrogen.png</file>
+        <file>UI/potassium.png</file>
+        <file>UI/silver.png</file>
+        <file>UI/sodium.png</file>
+        <file>UI/zinc.png</file>
+        <file>UI/water.png</file>
+        <file>UI/DavidJohnsTin.png</file>
+        <file>UI/chlorine.png</file>
+        <file>UI/sulfur.png</file>
+        <file>UI/How to Play Popup.png</file>
+        <file>UI/Level 1 Hint.png</file>
+        <file>UI/Level 1 Instructions.png</file>
+        <file>UI/Level 2 Hint.png</file>
+        <file>UI/Level 2 Instructions.png</file>
+        <file>UI/Level 3 Hint.png</file>
+        <file>UI/Level 3 Instructions.png</file>
+        <file>UI/Level 4 Hint.png</file>
+        <file>UI/Level 4 Instructions.png</file>
+        <file>UI/lockIcon.png</file>
+        <file>UI/Level 1 Score Popup.png</file>
+        <file>UI/Pottasium Nitrate Molecule.png</file>
+        <file>UI/Stannous Chloride Molecule.png</file>
+        <file>UI/Sulfuric Acid Molecule.png</file>
+        <file>UI/Water Molecule.png</file>
+        <file>UI/Game Screen-LEVEL1.png</file>
+        <file>UI/Stats Popup0.png</file>
+        <file>UI/Stats Popup1.png</file>
+        <file>UI/Stats Popup2.png</file>
+        <file>UI/Stats Popup3.png</file>
+        <file>UI/Stats Popup4.png</file>
+    </qresource>
+</RCC>
